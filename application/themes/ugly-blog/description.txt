@@ -1,0 +1,2 @@
+Ugly Blog Theme
+A custom theme for ugly blog
